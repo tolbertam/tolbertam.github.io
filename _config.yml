@@ -1,1 +1,9 @@
+title: tolbert.am
+email: x@andrewtolbert.com
+description: "Personal Blog for Andy Tolbert"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tolbert.am" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: tolbertam
+github_username:  tolbertam
+
 theme: jekyll-theme-modernist
